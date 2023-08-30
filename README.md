@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My name is Hayden
+I am currently going into Tech Elevator cohort 21
+Looking forward to meeting everyone!
+
 <!--
 **Holsen519/Holsen519** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
